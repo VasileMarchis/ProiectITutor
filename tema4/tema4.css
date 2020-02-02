@@ -1,0 +1,51 @@
+body {
+  background-color: #444;
+  margin: 15px;
+}
+h1 {
+  font-family: raleway;
+  color: white;
+  position: relative;
+  top: -70px;
+  background-color: rgba(0,0,0,0.6);
+  text-align: center;
+}
+p {
+  color: #999;
+  font-family: raleway;
+}
+h2 {
+  font-family: raleway;
+  color: white;
+}
+footer {
+  font-family: raleway;
+  color: #999;
+  text-align: center;
+}
+img {
+  height: auto;
+  width: 100%;
+}
+table {
+  font-family: raleway;
+  color: #999;
+}
+.lead {
+  font-family: arial;
+  font-size: 23px;
+  border-radius: 5px;
+  background-color: yellow;
+  color: rgba(0, 0, 0, 0.8);
+}
+table, th, td {
+  border: 1px solid #999;
+  text-align: center;
+} 
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+a.hover {
+  color: blue;
+}
