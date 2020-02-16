@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    background-color: linen;
+    border: none;
+    margin: 25px;
+    padding: 25px;
+    box-sizing: border-box;
+}
+/* in those selectors other properties might be added when needed */
+.class-selector{
+    color: red;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 200%
+}
+#id-sel-1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: deepskyblue;
+    font-size: 250%;
+}
+#id-sel-2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: hsla(119, 100%, 34%, 0.81);
+    font-size: 32px;
+}
+#id-sel-3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 180%;
+    color: #FFA500;
+}
+ul {
+    list-style-type: none;
+  }
+  li {
+    display: inline;
+  }
