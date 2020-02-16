@@ -6,3 +6,6 @@ var g = 10;
 if (f < g) {
     alert("JavaScript is easy to learn.");
 } //it will give us javascript is....
+var mystring1 = "I am learning ";
+var mystring2 = "JavaScript within Mentee-iTutor.";
+document.write(mystring1 + mystring2);//outputs both content of the strings
