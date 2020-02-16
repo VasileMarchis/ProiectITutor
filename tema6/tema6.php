@@ -72,4 +72,7 @@
     foreach ($names as $name) {
         echo $name.'<br />';
     }//outputs Daniel
-    
+    $myArray[0] = "Vasile";
+    $myArray[1] = "<strong>PHP</strong>";
+    $myArray[2] = 31;
+   echo "$myArray[0] is $myArray[2] he is learning $myArray[1]";// Vasile is 31 he is learning PHP

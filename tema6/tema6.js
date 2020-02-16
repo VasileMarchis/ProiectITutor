@@ -9,3 +9,7 @@ if (f < g) {
 var mystring1 = "I am learning ";
 var mystring2 = "JavaScript within Mentee-iTutor.";
 document.write(mystring1 + mystring2);//outputs both content of the strings
+var x = "50";
+var y = "100";
+document.write(x+y);//outputs 50100
+
