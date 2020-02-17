@@ -1,0 +1,3 @@
+Nu am inteles logica diferita dintre pre-increment si post-increment.
+
+Unde mai putem intalni XHTML? mai bine zic unde se poate folosi in viata reala?
